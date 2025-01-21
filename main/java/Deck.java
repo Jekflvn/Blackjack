@@ -4,7 +4,7 @@ import main.java.card.card;
 import main.java.card.suit;
 import java.util.Random;
 import java.util.ArrayList;
-
+///fdafda
 public class Deck {
 
     private ArrayList<card> deck;
